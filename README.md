@@ -8,7 +8,7 @@
 
 ## Conclusions?
 
-You can check the common elements by running `comm -12 electriczoo.txt osl.txt | comm -12 - pitchfork.txt` in the `masterlists` directory.
+You can check the common elements by running `comm -12 electriczoo.txt osl.txt | comm -12 - pitchfork.txt` in the `masterlists` directory. Obviously this is not every show, but I thought it better to start with shows that have complete listings and easily centralized playlists instead of reaching for more exotic ones that have to be entered manually; I figured that would at least narrow it down... it did.
 
 This leads to one common element: **Major Lazer**. They performed at:
 
