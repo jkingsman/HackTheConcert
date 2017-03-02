@@ -1,5 +1,12 @@
 # What is this?
-`masterlists` contains each show with all years concatenated, in lower case, deduplicated, and sorted.
+`masterlists` contains each selected show with all years concatenated, in lower case, deduplicated, and sorted.
+
+## Sources
+Electric Zoo: https://en.wikipedia.org/wiki/Electric_Zoo
+OSL: https://en.wikipedia.org/wiki/Outside_Lands_Music_and_Arts_Festival
+Pitchfork: https://en.wikipedia.org/wiki/Pitchfork_Music_Festival
+
+## Conclusions?
 
 You can check the common elements by running `comm -12 electriczoo.txt osl.txt | comm -12 - pitchfork.txt` in the `masterlists` directory.
 
@@ -19,7 +26,7 @@ Ultra Music Festival (2013, https://www.mixcloud.com/trackwolves/major-lazer-liv
 House of Vans (CAN'T CONFIRM)
 
 
-## Festivals
+### Festivals
 Bonaroo
 Coachella
 Electric Paradise Festival
